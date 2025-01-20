@@ -1,6 +1,6 @@
 [submodule "back-end"]
 	path = back-end
-	url = git@github.com:dmartin-projects/To-do-app-FARM-backend.git
+	url = https://github.com/dmartin-projects/To-do-app-FARM-backend/tree/3f41bd34679fe17a81144f5d97c22970ecd4c1fb
 [submodule "front-end"]
 	path = front-end
 	url = git@github.com:dmartin-projects/To-do-app-FARM-frontend.git
